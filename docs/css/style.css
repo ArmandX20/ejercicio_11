@@ -3,3 +3,11 @@
 body{
 	font-family: 'Inter', sans-serif;
 }
+.heroe{
+	background: red;
+	max-width: 1100px;
+	margin: auto;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	display: flex;
+}
